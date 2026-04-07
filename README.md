@@ -1,25 +1,26 @@
-# 👋 Hi, I'm raza
+# 👋 Hi, I'm sudorzk
 
-🛡️ Web Pentester | Bug Hunter | Security Learner | Network Pentester
-🎯 Focus: Web Exploitation (OWASP Top 10, CVE Analysis)
+I'm tech enthusiast and studying CyberSecurity including Web Penetration Testing,Mobile System Penetration Testing, and Network Penetration Testing in Public environments  
+🎯 Goals: I want to become a professional bug hunter who understands systems and security in the field of technology
 
 ---
 
 ## 🔍 What I Do
-- Web Application Pentesting
-- Vulnerability Research (XSS, IDOR, SQLi)
+- Web Application Pentesting owasp top 10
 - Analyze Network Security & Misconfiguration on public Network 
 - CVE & Bug Bounty Writeups
+- Documentation what I've learned
 - Lab-based Ethical Hacking
 
 ---
 
-## 🧰 Tools & Tech
-- Burp Suite, Nmap, SQLMap
-- OWASP Juice Shop, DVWA
-- Bettercap,Wireshark,Tcpdump
-- Linux, Bash, Git
-- HTTP, Cookies, Sessions
+## 🧰 Practical Experience
+- Hands on Lab (DVWA,Owasp Juice Shop,Network Public Area)
+- Built a mobile Pentesting environment using Kali Nethunter and install custom rom on Android phone
+- Tools for Network public Pentesting (Hydra,Bettercap, Nmap)
+- Has used the Operating System Linux & Windows
+- getting into the world of programming, such as web development and Python
+- reporting security vulnerabilities in public networks caused by misconfigurations to internet service providers   
 
 ---
 
