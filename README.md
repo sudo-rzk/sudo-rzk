@@ -60,18 +60,37 @@ A personal cybersecurity lab designed to practice web application security testi
 - Log collection and visualization
 - Observing security events from Red Team and Blue Team perspectives
 
-[View Project Repository](https://github.com/sudorzk/red-blue-team-lab)
+[View Project Repository](https://github.com/sudo-rzk/red-blue-team-lab)
 
 ---
-## 📜 Certifications
-- [x] Introduction to Cyber Security – Cisco
-- [x] MikroTik Certified Network Associate | – Mikrotik
-- [x] MikroTik Certified Network Routing Engineer | – Mikrotik 
+## 📜 Certifications & Learning
 
+### Certifications Profesional
+- [x] MikroTik Certified Network Associate | – MikroTik
+- [x] MikroTik Certified Network Routing Engineer | – MikroTik
 
+### Webinar Certificates
+- [x] WEB PENTEST & BUG HUNTING L1 | – Jadi Hacker
+- [x] Wordpress Security Researcher | - Merdeka Siber
+
+## 🏅 TryHackMe Badges
+
+<p align="center">
+  <img src="assets/hack2win.png" width="100" alt="Raffle Royalty">
+  <img src="assets/howthewebworks.png" width="100" alt="World Wide Web">
+  <img src="assets/linux.png" width="100" alt="cat linux.txt">
+  <img src="assets/soc-sim-first-alert-closed.png" width="100" alt="First alert closed">
+  <img src="assets/webbed.png" width="100" alt="webbed">
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/sudoe">
+    View My TryHackMe Profile
+  </a>
+</p>
 
 
 ---
 
-⚠️ All testing performed on legal labs and authorized environments only.
+
 
