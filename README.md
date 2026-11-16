@@ -1,5 +1,4 @@
 # 👋 Hi, I'm sudorzk
-
 I'm a cybersecurity enthusiast interested in **Blue Team and Red Team operations**, with a focus on Network Security, Web Application Security, and Wireless Security.
 
 My career goal is to become a **SOC Analyst or Junior Penetration Tester**. I'm interested in understanding how systems and networks work, identifying security weaknesses, and learning how security incidents can be detected and investigated.
@@ -9,10 +8,9 @@ I believe in learning through hands-on practice, understanding technical fundame
 ---
 
 ## 🎯 Career Goals
-
 - SOC Analyst
 - Junior Penetration Tester
----
+
 ## 🔍 Security Interests
 
 - Blue Team Operations & Security Monitoring
@@ -89,7 +87,13 @@ A personal cybersecurity lab designed to practice web application security testi
   </a>
 </p>
 
+## 📖 Learning Principles
 
+- Understand the fundamentals before relying on tools.
+- Learn how systems work, not just how to operate security tools.
+- Practice in controlled and authorized environments.
+- Document findings, mistakes, and lessons learned.
+- Continuously improve both offensive and defensive security skills.
 ---
 
 
